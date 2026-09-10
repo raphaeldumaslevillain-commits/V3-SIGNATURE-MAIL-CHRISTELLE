@@ -3,9 +3,9 @@
 La version actuelle est regroupée dans le dossier **[N&B](N%26B/)**.
 
 - [Fichier HTML de la signature](N%26B/Signature-Christelle-Egron.html)
-- [GIF animé sur trois lignes](N%26B/impact-makers.gif)
+- [GIF animé sur une ligne](N%26B/impact-makers.gif)
 
-Signature noir et blanc de **840 × 288 pixels** : portrait agrandi sur fond gris foncé, expertises en blanc, téléphone cliquable et bouton « voir nos Best cases ». Le panneau blanc animé prolonge le bloc gris sur toute sa hauteur, directement à droite. Une ombre légère est appliquée au panneau dans le HTML.
+Signature noir et blanc de **900 × 356 pixels**, entièrement sur fond gris foncé : identité, portrait agrandi et expertises en haut ; animation blanche sur une seule ligne en dessous. Le numéro **06 65 72 46 62** reste cliquable, sans préfixe. Le bouton « voir nos Best cases » tient sur une ligne.
 
 Les anciens dossiers Orange, JAUNE et ROUGE restent accessibles dans l’historique GitHub.
 

@@ -2,13 +2,13 @@
 
 [Fichier HTML](Signature-Christelle-Egron.html)
 
-La signature mesure **840 × 288 pixels** : un bloc gris foncé de 660 pixels et son prolongement blanc de 180 pixels, accolés sur toute la hauteur. Le portrait est affiché à 252 pixels de large, contre 204 auparavant.
+La composition mesure **900 × 356 pixels** : un bloc principal de 900 × 288 pixels et un GIF de 900 × 68 pixels juste en dessous, sur le même fond gris foncé `#232323`.
 
-Le bouton affiche « voir nos » au-dessus de **Best cases**, en caractères plus grands. Le logo et les expertises partagent le même alignement supérieur ; les réseaux sociaux sont centrés sous le bouton.
+Le portrait est affiché à 280 pixels de large. Le bouton « voir nos Best cases » est sur une seule ligne, avec Best cases en caractères plus marqués. Le numéro est affiché sans préfixe ; les réseaux sociaux sont centrés sous le bouton.
 
-- `logo.png`, `instagram.png`, `linkedin.png` : éléments utilisés par la signature.
+- `logo.png`, `instagram.png`, `linkedin.png` : éléments utilisés.
 - `christelle-maquette.jpg` : portrait noir et blanc affiché.
 - `christelle.png` et `umicc.png` : sources conservées.
-- `impact-makers.gif` : animation sur trois lignes, fond entièrement blanc ; affichage 180 × 288 pixels, image 360 × 576 pixels. L’ombre du panneau est définie dans le HTML.
+- `impact-makers.gif` : animation blanche sur une seule ligne, fond gris foncé ; affichage 900 × 68 pixels, image 1800 × 136 pixels.
 
-L’animation alterne IMPACT, MATCH, GROWTH, STORY et TREND, avec une frappe de 1 seconde, une pause de 1,5 seconde et un curseur clignotant. Les liens Instagram, LinkedIn, UMICC, téléphone et Best cases sont conservés.
+L’animation alterne IMPACT, MATCH, GROWTH, STORY et TREND. La frappe dure 1 seconde, la pause 1,5 seconde ; le curseur clignote. MAKERS se déplace à chaque lettre ajoutée ou effacée avec un espacement constant. Les liens Instagram, LinkedIn, UMICC, téléphone et Best cases sont conservés.
