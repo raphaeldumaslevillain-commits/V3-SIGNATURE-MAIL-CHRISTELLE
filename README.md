@@ -1,19 +1,12 @@
-# Signatures mail — Christelle EGRON
+# Signature mail — Christelle EGRON
 
-Trois versions complètes, chacune regroupée dans son dossier :
+La version actuelle est regroupée dans le dossier **[N&B](N%26B/)**.
 
-| Version | Couleur d’accent | Fichier HTML |
-| --- | --- | --- |
-| [Orange](Orange/) | `#FC6A56` — version validée | [Signature Orange](Orange/Signature-Christelle-Egron.html) |
-| [JAUNE](JAUNE/) | `#FFEF9B` — RVB 255, 239, 155 | [Signature JAUNE](JAUNE/Signature-Christelle-Egron.html) |
-| [ROUGE](ROUGE/) | `#CD0000` — RVB 205, 0, 0 | [Signature ROUGE](ROUGE/Signature-Christelle-Egron.html) |
+- [Fichier HTML de la signature](N%26B/Signature-Christelle-Egron.html)
+- [GIF animé sur trois lignes](N%26B/impact-makers.gif)
 
-Chaque dossier contient le HTML, le GIF animé, les logos, les icônes, la photo préparée et la photo source. Les fichiers de la version initiale ont été conservés dans Orange ; les versions précédentes restent également accessibles dans l’historique GitHub.
+Signature sur fond gris foncé, sans cadre coloré : portrait noir et blanc, expertises en blanc, téléphone cliquable et bouton **BEST CASE**. Le GIF est placé à droite dans une cartouche blanche ; son ombre est intégrée à l’image, en haut, à droite et en bas.
 
-Les images sont référencées par des adresses HTTPS absolues vers le dossier correspondant. Aucun chemin local n’est utilisé. Garder le dépôt public et les noms des dossiers et fichiers inchangés pour conserver ces liens.
+Les anciens dossiers Orange, JAUNE et ROUGE ont été retirés de la branche principale. Ils restent accessibles dans l’historique GitHub.
 
-Sur le fond jaune clair, les éléments du bandeau sont foncés pour rester lisibles ; le bouton utilise un fond jaune et un texte foncé.
-
-Pour afficher une signature, télécharger son fichier HTML depuis GitHub puis l’ouvrir dans un navigateur. GitHub affiche le code HTML sur sa page de fichier. Pour l’installer dans une messagerie, copier la signature affichée, puis la coller dans les réglages de signature.
-
-Le GIF alterne IMPACT, MATCH, GROWTH, STORY et TREND sur une ligne. La frappe dure environ 1 seconde, suivie d’une pause de 1,5 seconde. MAKERS suit chaque lettre avec un espacement constant.
+Pour afficher la signature, télécharger le HTML et l’ouvrir dans un navigateur. GitHub affiche le code sur la page du fichier. Les images utilisent des URL HTTPS absolues vers ce dépôt public ; conserver les noms du dossier et de ses fichiers pour maintenir ces liens.
