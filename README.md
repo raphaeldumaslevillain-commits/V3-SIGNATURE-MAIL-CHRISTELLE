@@ -2,11 +2,13 @@
 
 La version actuelle est regroupée dans le dossier **[N&B](N%26B/)**.
 
-- [Fichier HTML de la signature](N%26B/Signature-Christelle-Egron.html)
-- [GIF animé sur une ligne](N%26B/impact-makers.gif)
+- [Signature HTML](N%26B/Signature-Christelle-Egron.html)
+- [GIF original conservé](N%26B/impact-makers.gif)
 
-Signature noir et blanc de **900 × 356 pixels**, entièrement sur fond gris foncé : identité, portrait agrandi et expertises en haut ; animation blanche sur une seule ligne en dessous. Le numéro **06 65 72 46 62** reste cliquable, sans préfixe. Le bouton « voir nos Best cases » tient sur une ligne.
+La signature reprend la composition de la référence : logo et identité à gauche, grand portrait au centre, expertises en italique alignées à droite, bouton avec flèche, puis lien DBM GROUP et réseaux sociaux. Le GIF est placé en bas, entre deux traits.
 
-Les anciens dossiers Orange, JAUNE et ROUGE restent accessibles dans l’historique GitHub.
+Les sept expertises comprennent **Affiliation**, sous Influence. La hauteur reste de **356 pixels**, pour une largeur de 900 pixels.
 
-Pour afficher la signature, télécharger le HTML et l’ouvrir dans un navigateur. GitHub affiche le code sur la page du fichier. Les images utilisent des URL HTTPS absolues vers ce dépôt public ; conserver les noms du dossier et de ses fichiers pour maintenir ces liens.
+Le lien **DBM GROUP** mène à [digitalbrandmakers-group.com](https://digitalbrandmakers-group.com), entre une icône de site web et une icône de clic.
+
+Pour afficher la signature, télécharger le HTML et l’ouvrir dans un navigateur. GitHub affiche le code sur la page du fichier. Les images utilisent des URL HTTPS absolues vers ce dépôt public ; conserver les noms du dossier et des fichiers pour maintenir ces liens.
