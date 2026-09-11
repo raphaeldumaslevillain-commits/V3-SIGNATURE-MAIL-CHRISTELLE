@@ -1,17 +1,11 @@
-# Signature mail — Christelle EGRON
+# Signatures mail — Christelle EGRON
 
-La version actuelle est regroupée dans le dossier **[N&B](N%26B/)**.
+## Marseille
 
-- [Signature HTML](N%26B/Signature-Christelle-Egron.html)
-- [GIF recadré pour la signature](N%26B/impact-makers-gmail.gif)
-- [GIF original conservé](N%26B/impact-makers.gif)
+[Signature Marseille](Marseille/Signature-Christelle-Egron.html) · [Dossier complet](Marseille/)
 
-La signature reprend la composition de la référence : logo et identité à gauche, grand portrait au centre, expertises en italique alignées à droite, bouton avec flèche, puis lien DBM GROUP et réseaux sociaux. Le GIF est placé en bas, entre deux traits.
+Cette version reprend le design validé, à 450 pixels de large et aligné à gauche. Sous le GIF figurent « Déléguée nationale UMICC Sud », puis « Marseille-Vieux Port ».
 
-Les sept expertises comprennent **Affiliation**, sous Influence. La signature mesure désormais **450 × 178 pixels**, sur une base homothétique de la version 900 × 356 pixels. Elle est alignée à gauche, avec les fonctions et le téléphone légèrement agrandis, et l’interligne du nom resserré. Les fichiers image et le GIF sont conservés.
+Le dossier [N&B](N%26B/) conserve la base validée sans ces deux mentions. Les anciennes propositions de design restent uniquement dans l’historique GitHub.
 
-Le lien **DBM GROUP** mène à [digitalbrandmakers-group.com](https://digitalbrandmakers-group.com), entre une icône de site web et une icône de clic.
-
-Pour afficher la signature, télécharger le HTML et l’ouvrir dans un navigateur. GitHub affiche le code sur la page du fichier. Les images utilisent des URL HTTPS absolues vers ce dépôt public ; conserver les noms du dossier et des fichiers pour maintenir ces liens.
-
-Le GIF affiché est recadré directement dans le fichier : aucune marge négative ni aucun masquage HTML. Pour appliquer la taille et l’alignement à gauche dans Gmail, remplacer l’ancienne signature par une nouvelle copie du rendu HTML actualisé.
+Les images et les GIF sont référencés par des URL HTTPS absolues dans le dossier de chaque signature. Conserver les noms des fichiers et le dépôt public pour maintenir leur affichage.
