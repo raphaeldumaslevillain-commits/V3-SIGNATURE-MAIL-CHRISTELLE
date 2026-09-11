@@ -8,10 +8,10 @@ La version actuelle est regroupée dans le dossier **[N&B](N%26B/)**.
 
 La signature reprend la composition de la référence : logo et identité à gauche, grand portrait au centre, expertises en italique alignées à droite, bouton avec flèche, puis lien DBM GROUP et réseaux sociaux. Le GIF est placé en bas, entre deux traits.
 
-Les sept expertises comprennent **Affiliation**, sous Influence. La signature mesure désormais **400 × 158,22 pixels**, par réduction homothétique de la version 900 × 356 pixels. Le design et les fichiers image sont conservés.
+Les sept expertises comprennent **Affiliation**, sous Influence. La signature mesure désormais **450 × 178 pixels**, sur une base homothétique de la version 900 × 356 pixels. Elle est alignée à gauche, avec les fonctions et le téléphone légèrement agrandis, et l’interligne du nom resserré. Les fichiers image et le GIF sont conservés.
 
 Le lien **DBM GROUP** mène à [digitalbrandmakers-group.com](https://digitalbrandmakers-group.com), entre une icône de site web et une icône de clic.
 
 Pour afficher la signature, télécharger le HTML et l’ouvrir dans un navigateur. GitHub affiche le code sur la page du fichier. Les images utilisent des URL HTTPS absolues vers ce dépôt public ; conserver les noms du dossier et des fichiers pour maintenir ces liens.
 
-Le GIF affiché est recadré directement dans le fichier : aucune marge négative ni aucun masquage HTML. Pour appliquer cette correction dans Gmail, remplacer l’ancienne signature par une nouvelle copie du rendu HTML actualisé.
+Le GIF affiché est recadré directement dans le fichier : aucune marge négative ni aucun masquage HTML. Pour appliquer la taille et l’alignement à gauche dans Gmail, remplacer l’ancienne signature par une nouvelle copie du rendu HTML actualisé.
