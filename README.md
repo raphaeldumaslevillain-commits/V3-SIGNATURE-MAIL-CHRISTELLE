@@ -8,7 +8,7 @@ La version actuelle est regroupée dans le dossier **[N&B](N%26B/)**.
 
 La signature reprend la composition de la référence : logo et identité à gauche, grand portrait au centre, expertises en italique alignées à droite, bouton avec flèche, puis lien DBM GROUP et réseaux sociaux. Le GIF est placé en bas, entre deux traits.
 
-Les sept expertises comprennent **Affiliation**, sous Influence. La hauteur reste de **356 pixels**, pour une largeur de 900 pixels.
+Les sept expertises comprennent **Affiliation**, sous Influence. La signature mesure désormais **400 × 158,22 pixels**, par réduction homothétique de la version 900 × 356 pixels. Le design et les fichiers image sont conservés.
 
 Le lien **DBM GROUP** mène à [digitalbrandmakers-group.com](https://digitalbrandmakers-group.com), entre une icône de site web et une icône de clic.
 
